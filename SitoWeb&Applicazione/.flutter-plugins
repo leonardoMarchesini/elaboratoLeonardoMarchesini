@@ -1,0 +1,17 @@
+# This is a generated file; do not edit or check into version control.
+cloud_firestore=/Users/leonardomarchesini/Documents/src/flutter/.pub-cache/hosted/pub.dartlang.org/cloud_firestore-2.1.0/
+cloud_firestore_web=/Users/leonardomarchesini/Documents/src/flutter/.pub-cache/hosted/pub.dartlang.org/cloud_firestore_web-2.0.1/
+firebase_core=/Users/leonardomarchesini/Documents/src/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core-1.1.1/
+firebase_core_web=/Users/leonardomarchesini/Documents/src/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core_web-1.0.3/
+firebase_storage=/Users/leonardomarchesini/Documents/src/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_storage-8.0.6/
+firebase_storage_web=/Users/leonardomarchesini/Documents/src/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_storage_web-1.0.6/
+flutter_plugin_android_lifecycle=/Users/leonardomarchesini/Documents/src/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_plugin_android_lifecycle-2.0.1/
+google_sign_in=/Users/leonardomarchesini/Documents/src/flutter/.pub-cache/hosted/pub.dartlang.org/google_sign_in-5.0.3/
+google_sign_in_web=/Users/leonardomarchesini/Documents/src/flutter/.pub-cache/hosted/pub.dartlang.org/google_sign_in_web-0.10.0/
+image_picker=/Users/leonardomarchesini/Documents/src/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker-0.7.5/
+image_picker_for_web=/Users/leonardomarchesini/Documents/src/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker_for_web-2.0.0/
+path_provider=/Users/leonardomarchesini/Documents/src/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider-2.0.1/
+path_provider_linux=/Users/leonardomarchesini/Documents/src/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_linux-2.0.0/
+path_provider_macos=/Users/leonardomarchesini/Documents/src/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_macos-2.0.0/
+path_provider_windows=/Users/leonardomarchesini/Documents/src/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_windows-2.0.1/
+sqflite=/Users/leonardomarchesini/Documents/src/flutter/.pub-cache/hosted/pub.dartlang.org/sqflite-2.0.0+3/

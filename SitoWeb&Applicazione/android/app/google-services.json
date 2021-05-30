@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "790506086166",
+    "project_id": "smartsocial-bad2d",
+    "storage_bucket": "smartsocial-bad2d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790506086166:android:4cc72effeeabf7f45a7a37",
+        "android_client_info": {
+          "package_name": "com.leonardo.smartshare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "790506086166-cp33np4k9hnqftab5b1munfcjuea41j9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.leonardo.smartshare",
+            "certificate_hash": "b0d066bae6ab64691deed5c96625c606a9f40cde"
+          }
+        },
+        {
+          "client_id": "790506086166-vpttkneeq3v87r8tsqqi0mm790dm5bp7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxsU8el312eYu8xBJUq5vP4U9aHolxDHg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "790506086166-vpttkneeq3v87r8tsqqi0mm790dm5bp7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
